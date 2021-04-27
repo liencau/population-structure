@@ -1,0 +1,1 @@
+perl ./get_the_accession_names_of_eigenvec.pl /NAS6/shijunpeng/data/resequencing_data_lu/cat_reads/read_depth_statistics_of_all_accessions.names.777_lines.xls ./10chr.all_accessions.VQ50.877_lines.MAF_0.05.missing_value_0.5.eigenvec >./10chr.all_accessions.VQ50.877_lines.MAF_0.05.missing_value_0.5.eigenvec.names

@@ -1,0 +1,1 @@
+perl ./tree_file_chg_star.pl ../10chr.all_accessions.VQ50.877_lines.MAF_0.05.missing_value_0.5.fam /NAS6/shijunpeng/data/GWAS/SNP_calling/GATK/SNPs/raw_SNPs/population_structure/ADMIXTURE/ADMIXTURE/879_lines.matching_information ./outtree >./NJ_tree_10chr.all_accessions.VQ50.877_lines.MAF_0.05.missing_value_0.5
